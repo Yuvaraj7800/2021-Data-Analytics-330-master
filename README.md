@@ -1,4 +1,5 @@
 # DP-2021-Data-Analytics-330
+![data analyst](https://github.com/Yuvaraj7800/2021-Data-Analytics-330-master/assets/117731438/f4fca0a5-0997-4c7a-8bdb-d02252c7601b)
 
 ## Official Repository for Data Analytics Batch Digipodium.
 
